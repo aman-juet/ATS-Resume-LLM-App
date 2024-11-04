@@ -20,5 +20,5 @@ This is a Streamlit-based application that evaluates resumes based on a given jo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ATS-Resume-LLM-App.git
+   git clone https://github.com/aman-juet/ATS-Resume-LLM-App.git
    cd ATS-Resume-LLM-App
